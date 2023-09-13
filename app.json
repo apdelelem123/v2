@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/Tepthonee/PPF22",
+      "value": "https://github.com/apdelelem123/PPF22",
       "required": false
     }
     },
