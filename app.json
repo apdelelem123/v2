@@ -1,5 +1,5 @@
 {
-  "name": "سورس تيبثون العربي - TEPTHON ARABIC",
+  "name": "سورس سيرثون العربي - TEPTHON ARABIC",
   "description": "أهلًا بك في الإصدار الثاني من سورس تيبثون العربي - @Tepthon",
   "logo": "https://telegra.ph/file/dde13c45521934cce18c7.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Tepthonee/PPF22",
+  "repository": "https://github.com/apdelelem123/PPF22",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
